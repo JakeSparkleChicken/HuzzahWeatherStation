@@ -36,3 +36,4 @@ Run "crontab -e" and add the following to it to automatically run the python scr
 0 * * * * python /var/www/html/weather/plot_week.py
 10 0 * * * python /var/www/html/weather/plot_month.py
 30 0 * * * python /var/www/html/weather/plot_year.py
+
